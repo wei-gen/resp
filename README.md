@@ -1,2 +1,2 @@
 # resp
-config resp
+spring cloud config repositories
